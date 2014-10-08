@@ -56,6 +56,10 @@ footer {
 	margin-right: 1em;
 }
 
+#about img:hover {
+	opacity: 0.3;
+}
+
 #education img {
 	clear: both;
 	max-height: 400px;
